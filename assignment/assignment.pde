@@ -18,8 +18,8 @@ void draw() {
    delta = -1;
  {
    
-if (x==height-25) {
-  delta = -1;
+if (x==h-25) {
+  delta = 1;
  {
  
  
